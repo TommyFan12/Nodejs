@@ -1,0 +1,6 @@
+   npm install yo --global
+   
+   npm install gulp yo @microsoft/generator-sharepoint --global
+   npm install @microsoft/generator-sharepoint --global
+
+yo @microsoft/sharepoint
